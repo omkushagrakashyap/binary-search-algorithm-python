@@ -57,14 +57,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
 
 ### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Python](https://www.python.org/)
 
 
 ## Getting Started
@@ -103,14 +99,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/omkushagrakashyap/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/omkushagrakashyap/binary-search-python/issues) for a list of proposed features (and known issues).
 
 
 
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/Feature`)
@@ -132,27 +128,18 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 OM KUSHAGRA KASHYAP - enquiries.okk@gmail.com
 
-Project Link: [https://github.com/omkushagrakashyap/repo_name](https://github.com/omkushagrakashyap/repo_name)
+Project Link: [https://github.com/omkushagrakashyap/repo_name](https://github.com/omkushagrakashyap/binary-search-python)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
 
 
 
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/omkushagrakashyap/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/omkushagrakashyap/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/omkushagrakashyap/Best-README-Template.svg?style=for-the-badge
