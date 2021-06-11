@@ -126,7 +126,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-OM KUSHAGRA KASHYAP - enquiries.okk@gmail.com
+OM KUSHAGRA KASHYAP - 
 
 Project Link: [https://github.com/omkushagrakashyap/repo_name](https://github.com/omkushagrakashyap/binary-search-python)
 
